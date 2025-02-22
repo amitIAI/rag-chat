@@ -1,6 +1,6 @@
 pymupdf
 openai
-pinecone-client
+pinecone
 python-dotenv
 streamlit
 tiktoken
