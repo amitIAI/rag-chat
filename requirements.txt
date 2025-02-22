@@ -1,0 +1,7 @@
+pymupdf
+openai
+pinecone-client
+python-dotenv
+streamlit
+tiktoken
+watchdog
